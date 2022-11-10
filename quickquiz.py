@@ -1,4 +1,5 @@
 #quiz.py
+#This program would be used to create a quiz with definite answers.
 
 print("Welcome to the quiz!")
 
