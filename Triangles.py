@@ -1,8 +1,11 @@
 #This is a program that tells you whether a triangle is isoceles, scalar, or equilateral
+#practice from modules
 
 side_1 = int(input("Enter the length of the first side\n\n"))
 side_2 = int(input("Enter the width of the second side\n\n"))
 side_3 = int(input("Enter the height of the third side\n\n"))
+
+#getting used to using int
 
 if side_1 == side_2 == side_3:
     print("The triangle is equilateral")
