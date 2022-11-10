@@ -9,6 +9,8 @@ def view():
             user, passw = data.split("|")
             print("User:", user, ", Password:", passw)
 
+#created a passwords.txt to keep track
+
 def add():
     name = input("Account name: ")
     password = input("Password: ")
@@ -20,6 +22,7 @@ while True:
     choice = input("Would you like to add a new password or view existing ones (view, add), press q to quit ").lower()
     if choice == "q":
         break
+#using loops
 
     elif choice == "view":
         view()
