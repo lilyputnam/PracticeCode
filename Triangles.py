@@ -1,4 +1,4 @@
-#Challenge.2
+#This is a program that tells you whether a triangle is isoceles, scalar, or equilateral
 
 side_1 = int(input("Enter the length of the first side\n\n"))
 side_2 = int(input("Enter the width of the second side\n\n"))
