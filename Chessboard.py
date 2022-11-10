@@ -1,4 +1,5 @@
 #This is a program that can tell you if the square youve chosen from a chessboad is black or white
+#done from the module
 
 
 row_letter = 0
@@ -15,6 +16,8 @@ if coordinate_reference % 2 == 0:
     print("\nThe square is black""\n\n")
 else:
     print("\nThe square is white""\n\n")
+    
+#wrapping head around percentages and coordinates was tricky
 
 '''
 print("I believe that:''
