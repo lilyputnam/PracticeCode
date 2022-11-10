@@ -1,4 +1,4 @@
-#Challenge1.py
+#This is a program that can tell you if the square youve chosen from a chessboad is black or white
 
 
 row_letter = 0
